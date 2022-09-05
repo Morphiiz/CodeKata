@@ -12,7 +12,7 @@ Sample Input :
 Sample Output :
 2
 
-Explaination :
+Explanation :
 self
 
 """
