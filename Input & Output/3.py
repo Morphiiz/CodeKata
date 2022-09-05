@@ -15,7 +15,7 @@ Sample Output :
 5 3
 1 2 3 4 5
 
-Explaination :
+Explanation :
 self
 
 """
