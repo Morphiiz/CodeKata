@@ -19,7 +19,7 @@ e
 e
 k
 
-Explaination :
+Explanation :
 self
 
 """
