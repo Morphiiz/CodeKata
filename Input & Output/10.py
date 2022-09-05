@@ -11,7 +11,7 @@ guvi
 Sample Output :
 g,u,v,i
 
-Explaination :
+Explanation :
 self
 
 """
