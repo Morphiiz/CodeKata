@@ -17,7 +17,7 @@ Sample Output :
 2 4
 2 4
 
-Explaination :
+Explanation :
 self
 
 """
