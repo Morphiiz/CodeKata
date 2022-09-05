@@ -14,7 +14,7 @@ Sample Output :
 4.5
 7.8
 
-Explaination :
+Explanation :
 self
 
 """
